@@ -1,4 +1,4 @@
-# BT-UDPT-1 - *Name of your app*
+﻿# BT-UDPT-1 - *Name of your app*
 
 **Name of your app** là một bài tập 1 tại môn UDPT.
 
@@ -38,8 +38,6 @@ Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 Link ảnh GIF demo ứng dụng:
 
 ![Video Walkthrough](demo.gif)
-
-Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
 
 
 ## License
