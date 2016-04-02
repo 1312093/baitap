@@ -1,4 +1,4 @@
-﻿# BT-UDPT-1 - *Name of your app*
+# BT-UDPT-1 - *Name of your app*
 
 **Name of your app** là một bài tập 1 tại môn UDPT.
 
@@ -57,7 +57,3 @@ Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
-
-
-
